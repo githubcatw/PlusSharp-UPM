@@ -1,0 +1,18 @@
+{
+  "name": "com.plussharp",
+  "version": "1.0.0",
+  "displayName": "PlusSharp",
+  "description": "C# extensions to simplify working with Unity, using the magic of extension methods.",
+  "unity": "2019.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "extension",
+    "csharp",
+    "scripting"
+  ],
+  "author": {
+    "name": "Narek Torosyan (githubcatw)",
+    "email": "narek.email@gmail.com",
+    "url": "https://github.com/githubcatw/PlusSharp"
+  }
+}
